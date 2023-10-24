@@ -1,4 +1,10 @@
-# YouTube Analysis Project
+# YouTube Analysis (penguinz0 channel) Project
+
+<p align="center"> Wordcloud on penguinz0 all video's title (view <b>2-Preprocessing and EDA.ipynb</b> notebook)
+  
+![image](https://github.com/billharit/penguinz0-channel-analysis/assets/77628684/54f1600a-b097-4dc5-9133-3556a7ffb16d)
+  
+</p>
 
 ## Overview
 
@@ -14,7 +20,7 @@ To collect data from YouTube, the Google API is used. You will need to set up yo
 
 ## EDA and Preprocessing
 
-The preprocessing and EDA steps involve cleaning the collected data and gaining insights into the YouTube channel's performance.
+The preprocessing and EDA steps involve cleaning the collected data and gaining insights into the YouTube channel's performance. I use the Seaborn Python library to analyze the data into interesting-looking plots.
 
 ## 'penguinz0' Folder Contents
 
