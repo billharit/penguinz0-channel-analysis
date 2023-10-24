@@ -4,4 +4,4 @@ matplotlib
 isodate
 seaborn
 wordcloud
-stopwords
+nltk
