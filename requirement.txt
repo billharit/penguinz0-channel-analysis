@@ -1,0 +1,7 @@
+google-api-python-client
+pandas
+matplotlib
+isodate
+seaborn
+wordcloud
+stopwords
